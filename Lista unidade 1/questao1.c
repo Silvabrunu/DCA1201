@@ -1,0 +1,1 @@
+Ponteiros são muito úteis quando uma variável tem que ser acessada em diferentes partes de um programa. Neste caso, o código pode ter vários ponteiros espalhados por diversas partes do programa, “apontando” para a variável que contém o dado desejado, fazendo com que o gerenciamento de memoria seja eficaz.
